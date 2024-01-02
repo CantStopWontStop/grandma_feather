@@ -4,7 +4,77 @@
     "href": "index.html",
     "title": "Why Grandma Always Wore Feathers",
     "section": "",
-    "text": "Preface\nTo Ruth Hall and Corena Spells the best grandmothers any young boy could ask for. Thank you for teaching me about our Choctaw heritage growing up, hopefully this short story makes you proud.\nWhy Grandma always wore Feathers: A Choctaw Story\nNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any way by any means, electronic, mechanical, photocopy, recording, or otherwise without the prior permission of the author except as provided by USA copyright law.\nPublished in the United States of America\n\nfor (page in c('1-once_upon_a_time',\n               '2-adorned_with_pride',\n               '3-why_do_you_wear_that',\n               '4-heritage_we_embrace',\n               '5-a_legacy_cherished',\n               '6-grandmothers_stories_unfolded',\n               '7-embracing_his_roots',\n               '8-heritage_danced_in_his_head',\n               '9-a_guiding_light',\n               '10-a_story_of_resilience',\n               '11-embrace_your_heritage')\n     ) {\n    file.create(glue::glue('{page}.qmd'))\n}"
+    "text": "Preface\nTo Ruth Hall and Corena Spells the best grandmothers any young boy could ask for. Thank you for teaching me about our Choctaw heritage growing up, hopefully this short story makes you proud.\nWhy Grandma always wore Feathers: A Choctaw Story\nNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any way by any means, electronic, mechanical, photocopy, recording, or otherwise without the prior permission of the author except as provided by USA copyright law.\nPublished in the United States of America"
+  },
+  {
+    "objectID": "1-once_upon_a_time.html",
+    "href": "1-once_upon_a_time.html",
+    "title": "Once upon a time",
+    "section": "",
+    "text": "Once upon a time, in a small town where dreams would gather, lived a young Black kid, his name was Jasper.\nCuriosity bloomed in his heart, a flame to tether, for he wondered why his grandma wore a feather."
+  },
+  {
+    "objectID": "2-adorned_with_pride.html",
+    "href": "2-adorned_with_pride.html",
+    "title": "Adorned with Pride",
+    "section": "",
+    "text": "Every day, she adorned her head with pride, a feather so vibrant, it couldn’t hide.\nIt danced with grace, as if it could glide, intriguing young Jasper, his questions multiplied."
+  },
+  {
+    "objectID": "3-why_do_you_wear_that.html",
+    "href": "3-why_do_you_wear_that.html",
+    "title": "Why Do You Wear That?",
+    "section": "",
+    "text": "“Grandma,” he asked, eyes wide with wonder, “Why do you wear that feather, like thunder?”\nWith a smile, she replied, voice soft like a summer, “Come, my dear, let me share the story, no need to lumber.”"
+  },
+  {
+    "objectID": "4-heritage_we_embrace.html",
+    "href": "4-heritage_we_embrace.html",
+    "title": "Heritage We Embrace",
+    "section": "",
+    "text": "“In our veins, the blood of warriors flows, a heritage we embrace, a bond that only grows.\nThe feather signifies strength, as history shows, a reminder of the power that in our spirit bestows.”"
+  },
+  {
+    "objectID": "5-a_legacy_cherished.html",
+    "href": "5-a_legacy_cherished.html",
+    "title": "A Legacy Cherished",
+    "section": "",
+    "text": "Through generations, stories were passed, A legacy cherished, it would forever last.\nOrally spoken, they held their past, and their connection to the land, steadfast."
+  },
+  {
+    "objectID": "6-grandmothers_stories_unfolded.html",
+    "href": "6-grandmothers_stories_unfolded.html",
+    "title": "Grandmother’s Stories Unfolded",
+    "section": "",
+    "text": "Jasper listened, his heart filled with pride, as his grandmother’s stories unfolded wide.\nHe felt the echoes of the past collide, a sense of belonging, he couldn’t hide."
+  },
+  {
+    "objectID": "7-embracing_his_roots.html",
+    "href": "7-embracing_his_roots.html",
+    "title": "Embracing His Roots",
+    "section": "",
+    "text": "As the years went by, Jasper grew, embracing his roots, like morning dew.\nHe wore a feather too, a tribute anew, and his spirit soared, the way feathers do."
+  },
+  {
+    "objectID": "8-heritage_danced_in_his_head.html",
+    "href": "8-heritage_danced_in_his_head.html",
+    "title": "Heritage Danced in His Head",
+    "section": "",
+    "text": "Now, every night as he lay in his bed, thoughts of heritage danced in his head.\nHe understood the stories his grandmother had said, how the Choctaw Indians had fought and bled."
+  },
+  {
+    "objectID": "9-a_guiding_light.html",
+    "href": "9-a_guiding_light.html",
+    "title": "A Guiding Light",
+    "section": "",
+    "text": "The feather became a symbol, a guiding light, a reminder of their ancestors’ brave fight.\nTheir spirit alive, burning bright, a heritage cherished, with all their might."
+  },
+  {
+    "objectID": "10-a_story_of_resilience.html",
+    "href": "10-a_story_of_resilience.html",
+    "title": "A Story of Resilience",
+    "section": "",
+    "text": "And so, the tale of young Jasper weaves, a story of resilience, where love achieves.\nEmbrace your roots, let them shape and conceive, for within lies wisdom, and the power to believe."
   },
   {
     "objectID": "11-embrace_your_heritage.html",

@@ -19,8 +19,6 @@ book:
     - '9-a_guiding_light.qmd'
     - '10-a_story_of_resilience.qmd'
     - '11-embrace_your_heritage.qmd'
-    - references.qmd
-
 
 bibliography: references.bib
 
