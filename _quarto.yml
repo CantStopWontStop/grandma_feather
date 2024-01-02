@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Why Grandma Always Wore Feathers"
@@ -21,6 +22,7 @@ book:
     - '11-embrace_your_heritage.qmd'
 
 bibliography: references.bib
+
 
 format:
   html:
