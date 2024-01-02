@@ -1,0 +1,7 @@
+# A Guiding Light {.unnumbered}
+
+[The feather became a symbol, a guiding light, a reminder of their ancestors' brave fight.]{style="font-size:48px;"}
+
+[Their spirit alive, burning bright, a heritage cherished, with all their might.]{style="font-size:48px;"}
+
+![](imgs/Picture9.png)

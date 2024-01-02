@@ -2,22 +2,37 @@ project:
   type: book
 
 book:
-  title: "grandma_feather"
-  author: "Norah Jones"
+  title: "Why Grandma Always Wore Feathers"
+  subtitle: "A Choctaw Story"
+  author: "Chase McGhee"
   date: "12/30/2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - '1-once_upon_a_time.qmd'
+    - '2-adorned_with_pride.qmd'
+    - '3-why_do_you_wear_that.qmd'
+    - '4-heritage_we_embrace.qmd'
+    - '5-a_legacy_cherished.qmd'
+    - '6-grandmothers_stories_unfolded.qmd'
+    - '7-embracing_his_roots.qmd'
+    - '8-heritage_danced_in_his_head.qmd'
+    - '9-a_guiding_light.qmd'
+    - '10-a_story_of_resilience.qmd'
+    - '11-embrace_your_heritage.qmd'
     - references.qmd
+
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
+    toc: false
   pdf:
     documentclass: scrreprt
+    
+website:
+  page-footer: "Copyright © 2023 Chase McGhee"
 
 editor: visual
 

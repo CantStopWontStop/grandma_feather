@@ -1,0 +1,7 @@
+# Once upon a time {.unnumbered}
+
+[**Once upon a time**, in a small town where dreams would gather, lived a young Black kid, his name was Jasper. ]{style="font-size:48px"}
+
+[Curiosity bloomed in his heart, a flame to tether, for he wondered why his grandma wore a feather.]{style="font-size:48px"}
+
+![](imgs/Picture1.png)

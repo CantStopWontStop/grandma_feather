@@ -1,9 +1,9 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+To Ruth Hall and Corena Spells the best grandmothers any young boy could ask for. Thank you for teaching me about our Choctaw heritage growing up, hopefully this short story makes you proud.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Why Grandma always wore Feathers: A Choctaw Story
 
-```{r}
-1 + 1
-```
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in any way by any means, electronic, mechanical, photocopy, recording, or otherwise without the prior permission of the author except as provided by USA copyright law.
+
+Published in the United States of America

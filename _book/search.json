@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Why Grandma Always Wore Feathers",
+    "section": "",
+    "text": "Preface\nTo Ruth Hall and Corena Spells the best grandmothers any young boy could ask for. Thank you for teaching me about our Choctaw heritage growing up, hopefully this short story makes you proud.\nWhy Grandma always wore Feathers: A Choctaw Story\nNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any way by any means, electronic, mechanical, photocopy, recording, or otherwise without the prior permission of the author except as provided by USA copyright law.\nPublished in the United States of America\n\nfor (page in c('1-once_upon_a_time',\n               '2-adorned_with_pride',\n               '3-why_do_you_wear_that',\n               '4-heritage_we_embrace',\n               '5-a_legacy_cherished',\n               '6-grandmothers_stories_unfolded',\n               '7-embracing_his_roots',\n               '8-heritage_danced_in_his_head',\n               '9-a_guiding_light',\n               '10-a_story_of_resilience',\n               '11-embrace_your_heritage')\n     ) {\n    file.create(glue::glue('{page}.qmd'))\n}"
+  },
+  {
+    "objectID": "11-embrace_your_heritage.html",
+    "href": "11-embrace_your_heritage.html",
+    "title": "Embrace Your Heritage",
+    "section": "",
+    "text": "So, for who's ever listening, remember this tale to be true, embrace your heritage, let it guide you through.\nJust like the feather, may your spirit soar and pursue, the dreams that await, and the greatness within you."
+  }
+]
